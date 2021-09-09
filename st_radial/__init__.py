@@ -17,7 +17,7 @@ def st_radial(title, value, start_angle=-135, end_angle=225, key=None):
     component_value = _component_func(title=title, value=value, start_angle=start_angle, end_angle=end_angle, key=key)
     return component_value
 
-if not _RELEASE or __name__ == "__main__":
+if not _RELEASE:
     import streamlit as st
     import random
     st.title('Streamlit Radial Test')

@@ -5,7 +5,7 @@ README = (Path(__file__).parent/"README.md").read_text()
 
 setuptools.setup(
     name="st_radial",
-    version="1.0.0",
+    version="1.0.3",
     author="akshanshkmr",
     author_email="akshanshkmr821@gmail.com",
     description="A streamlit component to display metrics neatly",
