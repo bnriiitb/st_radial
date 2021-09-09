@@ -21,7 +21,7 @@ st-radial('Some metric', value=80)
 [![Open in Streamlit][share_badge]][share_link] 
 
 [share_badge]: https://static.streamlit.io/badges/streamlit_badge_black_white.svg
-[share_link]: https://share.streamlit.io/akshanshkmr/st_radial/main/st_radial/demo/app.py
+[share_link]: https://share.streamlit.io/akshanshkmr/st_radial/st_radial/demo/app.py
 
 [github_badge]: https://badgen.net/badge/icon/GitHub?icon=github&color=black&label
 [github_link]: https://github.com/akshanshkmr/st_radial/
